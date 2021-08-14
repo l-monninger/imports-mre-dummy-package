@@ -1,0 +1,21 @@
+{
+  "name": "imports-mre-dummy-package",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l-monninger/imports-mre-dummy-package.git"
+  },
+  "author": "Liam Monninger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l-monninger/imports-mre-dummy-package/issues"
+  },
+  "homepage": "https://github.com/l-monninger/imports-mre-dummy-package#readme"
+}
