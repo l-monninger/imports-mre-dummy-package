@@ -1,3 +1,1 @@
-import {Thing} from "Place/That/I/Know";
-
-Thing();
+export {Thing} from "Place/That/I/Know";
