@@ -1,1 +1,1 @@
-export {Thing} from "Place/That/I/Know";
+export {Thing} from "./Place/That/I/Know";
